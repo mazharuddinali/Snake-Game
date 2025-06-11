@@ -1,6 +1,6 @@
-# Snake Game in C 🐍
+# Snake Game in C++ 🐍
 
-A simple terminal-based Snake Game built using the C programming language. This classic game features a growing snake that moves in four directions and eats food to gain points. The game ends when the snake hits the wall or itself.
+A simple terminal-based Snake Game built using the C++ programming language. This classic game features a growing snake that moves in four directions and eats food to gain points. The game ends when the snake hits the wall or itself.
 
 ## 📌 Features
 
@@ -19,7 +19,7 @@ A simple terminal-based Snake Game built using the C programming language. This 
 
 ## 🛠️ Technologies Used
 
-- C Programming Language
+- C++ Programming Language
 - Console/Terminal
 
 ## 🚀 How to Run
